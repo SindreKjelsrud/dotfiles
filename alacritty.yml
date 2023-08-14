@@ -8,7 +8,8 @@ window:
 font:
     normal:
       family: JetBrains mono
-
+    size: 9
+  
 # COLORS
 colors:
     # Default colors
