@@ -4,6 +4,11 @@
 window:
     opacity: 0.9
 
+# FONT
+font:
+    normal:
+      family: JetBrains mono
+
 # COLORS
 colors:
     # Default colors
