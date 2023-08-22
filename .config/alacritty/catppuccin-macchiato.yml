@@ -1,16 +1,3 @@
-# I use the "catppuccin-maccahiato" theme!
-
-# WINDOW
-window:
-    opacity: 0.9
-
-# FONT
-font:
-    normal:
-      family: JetBrains mono
-    size: 9
-  
-# COLORS
 colors:
     # Default colors
     primary:

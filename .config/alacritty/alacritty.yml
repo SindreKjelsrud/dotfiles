@@ -1,0 +1,13 @@
+# WINDOW
+window:
+    opacity: 0.9
+
+# FONT
+font:
+    normal:
+      family: JetBrains mono
+    size: 9
+  
+# COLORS
+import:
+  - ~/.config/alacritty/catppuccin-macchiato.yml
