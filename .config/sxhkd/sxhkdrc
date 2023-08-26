@@ -122,11 +122,11 @@ super + {Left,Down,Up,Right}
 
 # volume control
 XF86AudioLowerVolume
-	amixer set Master 5%-
+	amixer set Master 5%- && amixer set Speaker 5%- && amixer set Headphone 5%-
 XF86AudioRaiseVolume
-	amixer set Master 5%+
+	amixer set Master 5%+ && amixer set Speaker 5%+ && amixer set Headphone 5%+
 XF86AudioMute
-	amixer set Master toggle
+	amixer set Master toggle && amixer set speaker toggle
 
 # brightness control
 XF86MonBrightnessDown
