@@ -99,6 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-PROMPT="%{$fg[white]%}%m ${PROMPT}"
+#PROMPT="%{$fg[green]%}%n@%{$fg[green]%}%m ${PROMPT}"
+PROMPT="🦥%m% ${PROMPT}"
 
-neofetch
+neofetch --ascii_distro arcolinux_small
