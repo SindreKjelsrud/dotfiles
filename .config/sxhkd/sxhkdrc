@@ -137,3 +137,7 @@ XF86MonBrightnessUp
 # lockscreen
 super + x
 	betterlockscreen -l dimblur
+
+# screenshot
+super + shift + @s
+	gnome-screenshot -a
