@@ -19,7 +19,7 @@
 
 ### Screenshots
 
-![Terminal](/screenshots/terminal.png)
-![Rofi](/screenshots/rofi.png)
-![Busy](/screenshots/buzy.png)
-![Non-busy](/screenshots/non-buzy.png)
+![Terminal](/.github/screenshots/terminal.png)
+![Rofi](/.github/screenshots/rofi.png)
+![Busy](/.github/screenshots/buzy.png)
+![Non-busy](/.github/screenshots/non-buzy.png)
