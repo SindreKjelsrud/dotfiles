@@ -1,0 +1,7 @@
+[user]
+	email = kjelsrudsindre@gmail.com
+	name = Sindre Kjelsrud
+[credential]
+	helper = store
+[core]
+	editor = nvim
