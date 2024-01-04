@@ -1,0 +1,10 @@
+import = ["/home/sid/.config/alacritty/catppuccin-macchiato.toml"]
+
+[font]
+size = 9
+
+[font.normal]
+family = "JetBrains mono"
+
+[window]
+opacity = 0.9
