@@ -1,6 +1,6 @@
 [user]
-	email = kjelsrudsindre@gmail.com
-	name = Sindre Kjelsrud
+	email = sindre@kjelsrud.dev
+	name = SindreKjelsrud
 	signingkey = 9E311661E72C4C17C8A91C81D2BBDF3EDE6BA9A6
 [credential]
 	helper = store
