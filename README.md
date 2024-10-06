@@ -3,6 +3,8 @@
 
 > _old bspwm-setup can be found in [`/bspwm`](/bspwm)_
 
+Btw, for symlinks I use GNU stow. I run `stow .` in this repo locally to automatically create them. 
+
 ### List of stuff
 
 |Distro|[Arch](https://archlinux.org/)|
