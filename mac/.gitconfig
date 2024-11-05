@@ -1,0 +1,7 @@
+[user]
+	email = sindre.kjelsrud@capgemini.com
+	name = SindreKjelsrud
+[credential]
+	helper = store
+[core]
+	editor = nvim
